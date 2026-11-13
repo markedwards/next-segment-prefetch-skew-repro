@@ -1,0 +1,5 @@
+node_modules
+.next-a
+.next-b
+app/_gen
+*.log

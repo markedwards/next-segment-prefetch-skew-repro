@@ -1,0 +1,16 @@
+{
+  "name": "next-skew-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node run.mjs"
+  },
+  "dependencies": {
+    "next": "16.5.0-canary.49",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "playwright": "1.65.0"
+  }
+}
